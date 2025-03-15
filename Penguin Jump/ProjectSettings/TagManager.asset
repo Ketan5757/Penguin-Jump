@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fish
+  - Trap
+  - Platforms
+  - Shield
+  - Wood
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemies
+  - Water
+  - UI
+  - Ground
+  - Stone
+  - 'Wood '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 92389429
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Stones
+    uniqueID: 1017071821
+    locked: 0
+  - name: Wood Platform
+    uniqueID: 293385121
+    locked: 0
+  - name: Fish
+    uniqueID: 2666351239
+    locked: 0
+  - name: Shiled
+    uniqueID: 1560911835
+    locked: 0
